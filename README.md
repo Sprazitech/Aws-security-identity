@@ -1,4 +1,4 @@
-# Create an IAM user with restricted permissions and test their access.
+**#AWS Security and Identity Assignment.**
 
 **1. To Create an IAM User with Restricted Permissions**
 
